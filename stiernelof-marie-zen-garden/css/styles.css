@@ -1,0 +1,19 @@
+body { 
+	font-family: arial; 
+	background-color: rgb(255,255,255);
+}
+h1 { 
+color: #FF3399;
+}
+h2 {
+color: #00CC99;
+text-decoration: underline; 
+color: #00CC99;
+}
+
+ul {
+font-family: arial; 
+color:#FFFFFF;
+background-color: #FF3399;
+}
+ 
