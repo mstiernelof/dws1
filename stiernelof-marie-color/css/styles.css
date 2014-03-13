@@ -1,0 +1,31 @@
+/*From CSS Color Keywords http://www.w3.org/TR/css3-color/#svg-color*/
+body {
+background-color: snow;
+}
+
+h1 {
+/*Used http://meyerweb.com/eric/css/colors/*/
+background-color: #62f8f3;
+color: rgb(255,250,250);
+padding: 5px
+}
+
+#content {
+/*From HSL Color Picker http://hslpicker.com/*/
+ background-color: rgba(173, 133, 213, 0.63);
+ color: snow;
+ padding: 5px;
+}
+
+h2 {
+/*Used http://meyerweb.com/eric/css/colors/*/
+background-color: salmon;
+color: hsl(0,100%,99%);
+padding: 5px
+}
+
+h3 {
+/*Used http://meyerweb.com/eric/css/colors/*/
+background-color: snow;
+color: salmon;
+}
