@@ -1,0 +1,50 @@
+
+body {
+background-color: snow;
+line-height: 1.4em;
+}
+
+h1 {
+font:normal normal normal 6em 'Ubuntu Mono' sans-serif;
+text-align: center;
+text-shadow: -1px -1px #666666;
+background-color: #62f8f3;
+color: rgb(255,250,250);
+padding: 5px;
+}
+#content {
+font:normal normal normal 1em 'Ubuntu Mono' sans-serif;
+text-align: center;
+background-color: rgba(186, 187, 185, 0.68);
+padding: 5px;
+}
+a:link {
+color: snow;
+text-decoration: none;
+}
+a:hover {
+color: snow;
+text-shadow: -1px -1px #666666;
+}
+a:visited {
+color: snow;
+color: #1b1859;
+}
+a:active {
+color: #1b1859;
+}
+h2 {
+font:normal normal normal 2em 'Ubuntu Mono' sans-serif;
+text-align: center;
+text-shadow: -1px -1px #666666;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+background-color: salmon;
+color: hsl(0,100%,99%);
+padding: 5px
+}
+h3 {
+font:normal normal normal 1em 'Ubuntu Mono' sans-serif;
+background-color: snow;
+color: salmon;
+}
