@@ -1,7 +1,0 @@
-https://github.com/mstiernelof/dws1
-
-Recipe Fix
-http://mstiernelof.github.io/dws1/stiernelof-marie-validation/recipe_fix.html
-
-Validation Check
-http://mstiernelof.github.io/dws1/stiernelof-marie-validation/validation_check.html

@@ -75,4 +75,8 @@ h3 {
 		margin: 10px auto 10px auto;
 		}
 
-
+#dates {
+		float: left;
+		width: 620px;
+		margin: 10 px
+}
