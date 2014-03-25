@@ -12,14 +12,9 @@ h1 {
 	background: url("../images/skymed.jpg") ;
 	}
 
-.covers{
+.covers {
 		float: left;
 		margin-right: 10px;
-}
-
-#intro{
-		
-	
 }
 
 #menu {
@@ -97,4 +92,7 @@ tr:hover {
 			background-color: rgb(123,201,240);
 }
 
- 
+header, section, footer, aside, nav, article, figure, figcaption {
+																display: block;
+}
+
