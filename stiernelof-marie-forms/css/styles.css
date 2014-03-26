@@ -1,5 +1,5 @@
 h1 {
-	font:normal normal normal 6em 'Ubuntu Mono' sans-serif;
+	font: 7em 'Raleway', sans-serif;
 	padding: 5px;
     margin: 0px auto 0px auto;
     width:400px;
@@ -19,7 +19,7 @@ h1 {
 
 #menu {
 		text-align: center;
-		font:normal normal normal 1.2em 'Ubuntu Mono' sans-serif;
+		font: 1.2em 'Raleway', sans-serif;
 		margin: 10px auto 10px auto;
 }
 
@@ -48,7 +48,7 @@ a:active {
 		}
 
 h2 {
-	font:normal normal normal 1.5em 'Ubuntu Mono' sans-serif;
+	font:1.5em 'Raleway', sans-serif;
 	letter-spacing: 0.1em;
 	background-color:black;
 	color: hsl(0,100%,99%);
@@ -60,7 +60,7 @@ h2 {
 	}
 
 h3 {
-	font:normal normal normal 1em 'Ubuntu Mono' sans-serif;
+	font: 1em 'Raleway', sans-serif;
 	color: rgb(123,201,240);
 	padding: 5px;
 	margin: 6px auto 0px auto;
@@ -93,6 +93,10 @@ tr:hover {
 }
 
 header, section, footer, aside, nav, article, figure, figcaption {
-																display: block;
+display: block;
+}
+
+footer {
+		text-align: right;
 }
 
