@@ -3,7 +3,7 @@
 h1 {
 	font: 7em 'Amatic SC', cursive;
 	text-align: center;
-	margin: 20px; 0 5px 0;
+	margin: 20px 0 5px 0;
 	background-color: rgb(254,235,180);
 	font-weight: normal;
 }
@@ -67,6 +67,10 @@ td {
 	text-align: left;
 }
 
+tr.hover {
+		background-color: white;
+}
+
 p {
 	line-height: 1.3em;
 }
@@ -77,8 +81,8 @@ p {
 
 #page {
 		background-color: rgb(254,235,180);
+		-box-shadow: -5px -5px #777777;
 		padding: 20px;
 		margin: 0px auto;
-		width: 80%
-		
+		width: 80%	
 }
